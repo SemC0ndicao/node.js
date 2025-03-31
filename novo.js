@@ -17,4 +17,4 @@ console.log(media.toString(2))//transforma em binário
 console.log(typeof media)//retorna o tipo da variacvel
 console.log(typeof Number)
 console.log("10.2" / 2)
-console.log(sim)
+console.log('sim')
