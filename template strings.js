@@ -1,5 +1,6 @@
 const nome = 'rebeca'
-const template = ` //funciona tipo um comentário, mas pra escrever
+//funciona tipo um comentário, mas pra escrever
+const template = ` 
     Olá
     ${nome}!`
 console.log(template)
